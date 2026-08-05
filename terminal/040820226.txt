@@ -1,0 +1,47 @@
+Laboratorio1@DESKTOP-PU9MGT3 MINGW64 ~/ucatec/programacion-avanzada (master)
+$ history
+    1  ls -la
+    2  cd test
+    3  cd ..
+    4  mkdir ucatec
+    5  cd ucatec/
+    6  ls -la
+    7  mkdir programacion-avanzada
+    8  cd programacion-avanzada
+    9  ls -la
+   10  git init
+   11  code .
+   12  vi --version
+   13  nano --version
+   14  code --version
+   15  code --version
+   16  cd ucatec/programacion-avanzada/
+   17  code .
+   18  git status
+   19  git add docs/
+   20  git status
+   21  git status
+   22  git add docs
+   23  git status
+   24  ls -la
+   25  git status
+   26  git add README.md
+   27  git status
+   28  git log
+   29  git commit -m "Mi primer commit"
+   30  git config --global user.email "gaston.quelali@ucatec.edu.bo"
+   31  git config --list
+   32  git config --global user.name "QuelaliUcatec"
+   33  git config --list
+   34  git commit -m "Mi primer commit"
+   35  git log
+   36  git status
+   37  ls -la
+   38  git remote -v
+   39  git branch -M master
+   40  git remote add origin https://github.com/QuelaliUcatec/programacion-avanzada.gigit remote add origin https://github.com/QuelaliUcatec/programacion-avanzada.git
+   41  git remote add origin https://github.com/QuelaliUcatec/programacion-avanzada.git
+   42  git remote -v
+   43  git status
+   44  git push -u origin master
+   45  history
