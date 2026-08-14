@@ -1,5 +1,11 @@
 // Clase Hija (Demuestra Herencia)
 class Coche extends Vehiculo {
+
+    // Constructor
+    public Coche() {
+        super();
+    }
+
     public Coche(String marca) {
         super(marca);
     }
