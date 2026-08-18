@@ -1,1 +1,0 @@
-- Realizar el ejemplo-geometria realizar paso por paso, desde la documentacion hasta el codigo.
