@@ -41,7 +41,9 @@ public class Main {
         System.out.println("==================================");
         System.out.println("1. Calcular Rectángulo");
         System.out.println("2. Calcular Círculo");
-        System.out.println("3. Salir");
+        System.out.println("3. Calcular Cuadrado");
+        System.out.println("4. Calcular Elipse");
+        System.out.println("5. Salir");
         System.out.println("==================================");
     }
 
