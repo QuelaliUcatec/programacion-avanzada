@@ -1,6 +1,8 @@
 package com.geometria;
 
 import com.geometria.model.Circulo;
+import com.geometria.model.Cuadrado; // Añadido
+import com.geometria.model.Elipse; // Añadido
 import com.geometria.model.FiguraGeometrica;
 import com.geometria.model.Rectangulo;
 
@@ -24,13 +26,19 @@ public class Main {
                     procesarCirculo();
                     break;
                 case 3:
+                    procesarCuadrado(); // Añadido
+                    break;
+                case 4:
+                    procesarElipse(); // Añadido
+                    break;
+                case 5: // Cambiado de 3 a 5
                     System.out.println("\n¡Gracias por usar la aplicación de Geometría!");
                     break;
                 default:
                     System.out.println("\nOpción no válida. Intente nuevamente.");
             }
             System.out.println();
-        } while (opcion != 3);
+        } while (opcion != 5); // Cambiado de 3 a 5
 
         scanner.close();
     }
@@ -52,7 +60,6 @@ public class Main {
         double base = leerDoublePositivo("Ingrese la base: ");
         double altura = leerDoublePositivo("Ingrese la altura: ");
 
-        // Polimorfismo: Referencia de clase abstracta apuntando a objeto hijo
         FiguraGeometrica rectangulo = new Rectangulo(base, altura);
         mostrarResultado(rectangulo);
     }
@@ -63,6 +70,23 @@ public class Main {
 
         FiguraGeometrica circulo = new Circulo(radio);
         mostrarResultado(circulo);
+    }
+
+    private static void procesarCuadrado() {
+        System.out.println("\n--- Nuevo Cuadrado ---");
+        double lado = leerDoublePositivo("Ingrese el lado: ");
+
+        FiguraGeometrica cuadrado = new Cuadrado(lado);
+        mostrarResultado(cuadrado);
+    }
+
+    private static void procesarElipse() {
+        System.out.println("\n--- Nueva Elipse ---");
+        double semiejeMayor = leerDoublePositivo("Ingrese el semieje mayor: ");
+        double semiejeMenor = leerDoublePositivo("Ingrese el semieje menor: ");
+
+        FiguraGeometrica elipse = new Elipse(semiejeMayor, semiejeMenor);
+        mostrarResultado(elipse);
     }
 
     private static void mostrarResultado(FiguraGeometrica figura) {
