@@ -1,15 +1,28 @@
-# Realiazar el DOO y la implementación (POO) del juego de 3 en raya
+# Práctica 3 en Raya
 
-- DOO
-  - Diagrama de casos de uso
-  - Diagrama de clases
-Nota: Puede utilizar cualquier herramienta y cargar mediante una imagen
-- POO
-  - Crear una rama `gquelali/practicas/practica-3-en-raya`
-  - Crear todas las clases de acuerdo al DOO en consola
+## Descripción
 
-Ejemplo de carga de imagenes
+Juego de 3 en Raya desarrollado en Java utilizando Programación Orientada a Objetos (POO).
 
-![Enunciado](./img/enunciado.png)
+El juego permite que dos jugadores jueguen por turnos utilizando los símbolos X y O.
 
-![Participantes de hoy](./img/participantes.png)
+## Diagramas
+
+### Diagrama de casos de uso
+
+![Diagrama de casos de uso](img/diagrama-casos-uso.png)
+
+### Diagrama de clases
+
+![Diagrama de clases](img/diagrama-clases.png)
+
+## Clases
+
+* `Main.java`
+* `Jugador.java`
+* `Tablero.java`
+* `Juego.java`
+
+## Ejecución
+
+El juego se ejecuta desde la consola y permite realizar los movimientos de los dos jugadores hasta obtener un ganador o un empate.
