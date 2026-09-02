@@ -13,3 +13,11 @@ Ejemplo de carga de imagenes
 ![Enunciado](./img/enunciado.png)
 
 ![Participantes de hoy](./img/participantes.png)
+## Diseño Orientado a Objetos (DOO)
+
+### Diagrama de Casos de Uso
+```mermaid
+graph TD
+    Usuario((Jugador)) --> UC1(Iniciar Juego)
+    Usuario --> UC2(Seleccionar Casilla)
+    Usuario --> UC3(Ver Tablero)
