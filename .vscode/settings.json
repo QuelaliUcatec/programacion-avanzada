@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "practicas/practica-3-en-raya/lib/jackson-annotations-2.17.0.jar",
+        "practicas/practica-3-en-raya/lib/jackson-core-2.17.0.jar",
+        "practicas/practica-3-en-raya/lib/jackson-databind-2.17.0.jar"
+    ]
+}
