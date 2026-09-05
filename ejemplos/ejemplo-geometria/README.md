@@ -34,6 +34,7 @@ classDiagram
     class FiguraGeometrica {
         <<abstract>>
         # String nombre
+        + FiguraGeometrica() void
         + FiguraGeometrica(String nombre)
         + getNombre() String
         + setNombre(String nombre) void
@@ -44,6 +45,7 @@ classDiagram
     class Rectangulo {
         - double base
         - double altura
+        + Rectangulo()
         + Rectangulo(double base, double altura)
         + getBase() double
         + setBase(double base) void
@@ -55,6 +57,7 @@ classDiagram
 
     class Circulo {
         - double radio
+        + Circulo()
         + Circulo(double radio)
         + getRadio() double
         + setRadio(double radio) void
@@ -76,6 +79,7 @@ Define el contrato base para todas las figuras del sistema.
 * **Atributos:**
   * `# nombre: String` (Protegido)
 * **Métodos:**
+  * `+ FiguraGeometrica()`: Constructor vacío (requerido por Jackson para deserializar).
   * `+ FiguraGeometrica(String nombre)`: Constructor.
   * `+ calcularArea(): double`: Método abstracto a implementar por las subclases.
   * `+ calcularPerimetro(): double`: Método abstracto a implementar por las subclases.
