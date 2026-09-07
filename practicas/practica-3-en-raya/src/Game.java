@@ -25,11 +25,17 @@ public class Game {
             char winner = board.checkWinner();
             if (winner != ' ') {
                 board.printBoard();
-                System.out.println(getPlayerByMark(winner).getName() + " ha ganado!");
+                Player ganador = getPlayerByMark(winner);
+                Player perdedor = ganador == players[0] ? players[1] : players[0];
+                System.out.println(ganador.getName() + " ha ganado!");
+
+                new HistorialManager().guardarPartida(new Partida(ganador.getName(), perdedor.getName(), false));
                 gameOver = true;
             } else if (board.isFull()) {
                 board.printBoard();
                 System.out.println("Empate! El tablero esta lleno.");
+
+                new HistorialManager().guardarPartida(new Partida(players[0].getName(), players[1].getName(), true));
                 gameOver = true;
             } else {
                 switchTurn();
