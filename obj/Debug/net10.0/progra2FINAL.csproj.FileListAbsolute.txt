@@ -1,0 +1,14 @@
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\bin\Debug\net10.0\progra2FINAL.exe
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\bin\Debug\net10.0\progra2FINAL.deps.json
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\bin\Debug\net10.0\progra2FINAL.runtimeconfig.json
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\bin\Debug\net10.0\progra2FINAL.dll
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\bin\Debug\net10.0\progra2FINAL.pdb
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.AssemblyInfoInputs.cache
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.AssemblyInfo.cs
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.dll
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\refint\progra2FINAL.dll
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.pdb
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\progra2FINAL.genruntimeconfig.cache
+C:\Users\Pc-Emanuel\OneDrive\Documentos\progra2FINAL\obj\Debug\net10.0\ref\progra2FINAL.dll
