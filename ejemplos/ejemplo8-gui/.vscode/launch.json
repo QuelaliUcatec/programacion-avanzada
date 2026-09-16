@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar MiApp",
+            "request": "launch",
+            "mainClass": "MiApp",
+            "vmArgs": "--module-path /Users/gastonquelali/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
