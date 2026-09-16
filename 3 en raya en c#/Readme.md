@@ -51,3 +51,14 @@ La solución se encuentra modularizada evitando bloques monolíticos o funciones
                                                                   | (compone/usa)
                                                                   v
                                                         [ 2x Jugador & 1x Tablero ]
+
+```
+
+
+## DIAGRAMAS:
+
+![Diagrama de Clases](./img/clases.jpeg)
+
+![Diagrama de Casos de Uso](./img/casos.jpeg)
+
+![Diagrama de Actividades](./img/actividades.jpeg)
