@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TresEnRaya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005b3fd216091c8c400db61ef645581bf3daccfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe00041a91117003fce01e0621bd59f475672578")]
 [assembly: System.Reflection.AssemblyProductAttribute("TresEnRaya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TresEnRaya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
