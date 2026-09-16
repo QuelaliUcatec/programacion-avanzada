@@ -1,2 +1,13 @@
+# Java
 *.class
+
+# macOS
 .DS_Store
+
+# .NET
+**/bin/
+**/obj/
+
+# Archivos temporales de Visual Studio
+*.user
+*.suo
