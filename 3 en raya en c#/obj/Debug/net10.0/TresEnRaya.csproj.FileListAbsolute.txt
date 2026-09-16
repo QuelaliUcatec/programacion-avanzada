@@ -1,0 +1,15 @@
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/bin/Debug/net10.0/TresEnRaya
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/bin/Debug/net10.0/TresEnRaya.deps.json
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/bin/Debug/net10.0/TresEnRaya.runtimeconfig.json
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/bin/Debug/net10.0/TresEnRaya.dll
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/bin/Debug/net10.0/TresEnRaya.pdb
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.GeneratedMSBuildEditorConfig.editorconfig
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.AssemblyInfoInputs.cache
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.AssemblyInfo.cs
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.csproj.CoreCompileInputs.cache
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.sourcelink.json
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.dll
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/refint/TresEnRaya.dll
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.pdb
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/TresEnRaya.genruntimeconfig.cache
+/home/monti/ucatec/programacion-avanzada/3 en raya en c#/obj/Debug/net10.0/ref/TresEnRaya.dll
