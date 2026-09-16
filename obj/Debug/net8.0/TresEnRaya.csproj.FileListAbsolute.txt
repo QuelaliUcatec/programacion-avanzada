@@ -1,0 +1,14 @@
+C:\Users\estacion\proyectos\TresEnRaya\bin\Debug\net8.0\TresEnRaya.exe
+C:\Users\estacion\proyectos\TresEnRaya\bin\Debug\net8.0\TresEnRaya.deps.json
+C:\Users\estacion\proyectos\TresEnRaya\bin\Debug\net8.0\TresEnRaya.runtimeconfig.json
+C:\Users\estacion\proyectos\TresEnRaya\bin\Debug\net8.0\TresEnRaya.dll
+C:\Users\estacion\proyectos\TresEnRaya\bin\Debug\net8.0\TresEnRaya.pdb
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.AssemblyInfoInputs.cache
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.AssemblyInfo.cs
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.dll
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\refint\TresEnRaya.dll
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.pdb
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\TresEnRaya.genruntimeconfig.cache
+C:\Users\estacion\proyectos\TresEnRaya\obj\Debug\net8.0\ref\TresEnRaya.dll
